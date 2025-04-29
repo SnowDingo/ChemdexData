@@ -1,20 +1,16 @@
 [
-    {
-        "name": "Water",
-        "formula": "H2O",
-        "description": "Water is one of the most important chemical substance for sustained biological life. It composes 60% of our human body, and it can be seen every where on Earth.",
-        "usage":[
-            "cooling","biological processes"
-        ],
-        "stateatroomtemp": "liquid"
-    },
-    {
-        "name:": "Salt/Sodium Chloride",
-        "formula": "NaCl",
-        "description": "Sodium Chloride or famously known as salt is a chemical compound formed by sodium and chlorine ion. It is located mainly in earth's ocean.",
-        "usage": [
-            "seasoning(for food)"
-        ],
-        "stateatroomtemp": "solid"
-    }
+  {
+    "name": "Water",
+    "formula": "H2O",
+    "description": "Water is one of the most important chemical substance for sustained biological life. It composes 60% of our human body, and it can be seen every where on Earth.",
+    "usage": ["cooling", "biological processes"],
+    "stateatroomtemp": "liquid"
+  },
+  {
+    "name": "Salt/Sodium Chloride",
+    "formula": "NaCl",
+    "description": "Sodium Chloride or famously known as salt is a chemical compound formed by sodium and chlorine ion. It is located mainly in earth's ocean.",
+    "usage": ["seasoning(for food)"],
+    "stateatroomtemp": "solid"
+  }
 ]
