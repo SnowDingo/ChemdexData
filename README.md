@@ -16,6 +16,6 @@ Please work on the `/data` repository to edit.
 ## 🪪License
 This project is brought to everyone by @Snowdingo and other contributors. It is licensed under Apache 2.0, and for more details, please see our LICENSE.
 
-##⭐️ Contribute
+## ⭐️ Contribute
 We welcome any contribution from something as small as reporting misinformation/request to as large as adding data. 
 To start, please send us an issue or a PR.
