@@ -10,7 +10,7 @@
     "name": "Salt/Sodium Chloride",
     "formula": "NaCl",
     "description": "Sodium Chloride or famously known as salt is a chemical compound formed by sodium and chlorine ion. It is located mainly in earth's ocean.",
-    "usage": ["seasoning(for food)"],
+    "usage": ["seasoning(for food)", "medical usage"],
     "stateatroomtemp": "solid"
   }
 ]
